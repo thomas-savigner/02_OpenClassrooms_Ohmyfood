@@ -1,0 +1,2 @@
+# 02_OpenClassrooms_Ohmyfood
+ The writing of this 2nd project was very captivating. In the continuity of the first project, we go one step further in learning. This structured site of static pages is enriched with visual animations that provide a more dynamic user experience. He wrote with HTML and the Sass preprocessor for the style sheet. This was an opportunity to learn how to handle very simple variables such as those in which the colors requested in the graphic chart are stored.
