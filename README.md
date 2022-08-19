@@ -1,2 +1,20 @@
-# 02_OpenClassrooms_Ohmyfood
- The writing of this 2nd project was very captivating. In the continuity of the first project, we go one step further in learning. This structured site of static pages is enriched with visual animations that provide a more dynamic user experience. He wrote with HTML and the Sass preprocessor for the style sheet. This was an opportunity to learn how to handle very simple variables such as those in which the colors requested in the graphic chart are stored.
+![logo](logo/ohmyfood@2x.svg)
+
+# Projet 3/7 du parcours Développeur web d'OpenClassrooms
+
+### Objectif
+Dynamiser une page web avec des animations CSS
+
+### Scénario
+Ohmyfood une plateforme d'origine new-yorkaise de commande anticipée de menu de restaurants gastronomiques qui se décline sur Paris.
+Il s'agit de créer la première version d'un site web responsive à partir d'une maquette graphique en version mobile. Puis il faudra inclure des animations qui donneront un premier aperçu du site lorsqu'il sera pleinement développé.
+
+### Animations demandées
+- Loading spinner au chargement de l'index
+- Style des boutons au survol
+- Colorisation progressive des icônes "coeur" au survol pour simuler la mise en mémoire d'un menu
+- Apparition décalée des blocs de plats sur les pages de menu
+- Apparition d'une icône "coche" verte au survol des blocs de plats pour simuler le choix d'un plat
+
+### Aperçu
+-> [GitHub Pages](link)
